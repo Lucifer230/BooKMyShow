@@ -7,7 +7,7 @@ Bookmyshow is India's largest entertainment ticket booking platform. Its a Servi
 # Links 
 
 * Blog-Post :- 
-* Screenshot's :- [Click here](https://github.com/bhaveshppatil/BookMyShow/tree/master/Bookmyshow)
+* Screenshot's :- [Click here](https://github.com/Lucifer230/BookMyShow/tree/main/BookMyShow)
 
 # 🔗Open-Source Library
 
@@ -53,10 +53,6 @@ Bookmyshow is India's largest entertainment ticket booking platform. Its a Servi
 * Go to the page of the repository that you want to clone
 
 * Click on “Clone or download” and copy the URL.
-
-* Use the git clone command along with the copied URL from earlier. $ git clone [BookMyShow](https://github.com/bhaveshppatil/BookMyShow.git)
-
-* Press Enter. $ git clone [BookMyShow](https://github.com/bhaveshppatil/BookMyShow.git) Cloning into Git … remote: Counting objects: 13, done. remote: Compressing objects: 100% (13/13), done. remove: Total 13 (delta 1), reused 0 (delta 1) Unpacking objects: 100% (13/13), done.
 
 Congratulations, you have created your first local clone from your remote Github repository.
 
@@ -114,4 +110,3 @@ Open Android Studio. Go to File > New > Project From Version Control. Copy the l
     implementation 'de.hdodenhof:circleimageview:3.1.0'
     implementation 'com.jakewharton:butterknife:8.8.1'
 
-# Lessons Learnt📚
